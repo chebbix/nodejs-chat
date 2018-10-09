@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "Chat",
+  "dependencies": {
+    "express": "~4.10.2",
+    "socket.io": "~1.4.6",
+    "hashids": "1.0.1",
+    "redis": "~2.6.2"
+  }
+}
